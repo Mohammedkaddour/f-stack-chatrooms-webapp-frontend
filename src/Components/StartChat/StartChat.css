@@ -1,0 +1,16 @@
+.startChat{
+   
+   
+    margin-top: 500px;
+    margin-bottom: 100px;
+    margin-right: auto;
+    margin-left: auto;
+   
+ width: 60%;
+}
+.msgwindow{
+    margin-bottom: 10px;
+    border: 0.2px solid;
+  padding: 20px;
+  box-shadow: 3px 8px #c0bdbd;
+}
